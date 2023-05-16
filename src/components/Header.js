@@ -48,6 +48,7 @@ const Header = () => {
             </h2>
           </li>
           <li>
+            
             <a href="/add">Patient</a>
           </li>
           <li>
